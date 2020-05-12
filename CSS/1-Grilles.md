@@ -17,4 +17,5 @@ Vous pouvez éditer ce fichier directement sur github en mettant votre pseudo su
 
 ## Vos solutions
 
-- Pseudo - https://grafikart.fr/exemple-de-lien
+- Valentin - https://codesandbox.io/s/festive-glitter-5nj0f?file=/index.html
+Pour une raison qui m'échappe, quand on resize la page, la deuxieme col ne se resize pas comme les autres 🙃
